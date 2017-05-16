@@ -36,6 +36,20 @@
       "requireSameDimensions" : true,
       "onBeforeScript": "",
       "onReadyScript": ""
+    },
+    {
+      "label": "Card page",
+      "url": "http://localhost:3001/second.html",
+      "selectors": [],
+      "selectorExpansion": true,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions" : true,
+      "onBeforeScript": "",
+      "onReadyScript": ""
     }
   ],
   "paths": {
