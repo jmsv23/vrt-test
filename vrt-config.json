@@ -35,7 +35,7 @@
       "misMatchThreshold" : 0.1,
       "requireSameDimensions" : true,
       "onBeforeScript": "",
-      "onReadyScript": ""
+      "onReadyScript": "increase_progress.js"
     },
     {
       "label": "Card page",
@@ -55,7 +55,7 @@
   "paths": {
     "bitmaps_reference": "vrt/backstop_data/bitmaps_reference",
     "bitmaps_test": "vrt/backstop_data/bitmaps_test",
-    "casper_scripts": "vrt/backstop_data/casper_scripts",
+    "casper_scripts": "vrt/casper_scripts",
     "html_report": "vrt/backstop_data/html_report",
     "ci_report": "vrt/backstop_data/ci_report"
   },
